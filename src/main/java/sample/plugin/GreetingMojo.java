@@ -13,6 +13,7 @@ public class GreetingMojo extends AbstractMojo
 {
   public void execute() throws MojoExecutionException
   {
+    //Will print the phrase into the console
     getLog().info( "Hello, world." );
   }
 }
