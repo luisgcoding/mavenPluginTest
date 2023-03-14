@@ -5,7 +5,7 @@ import org.apache.maven.plugin.MojoExecutionException;
 import org.apache.maven.plugins.annotations.Mojo;
 
 /**
- * Says "Hi" to the user.
+ * Says "Hi" to the user in the console.
  *
  */
 @Mojo( name = "sayhi")
